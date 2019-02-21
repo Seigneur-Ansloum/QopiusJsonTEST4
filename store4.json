@@ -1,0 +1,76 @@
+
+{
+
+    "storeareas":[
+        {
+            "id":"abcd",
+            "imageurl":"https://storage.googleapis.com/qopiuseu1/LvXdVW/panorama/BuBclLcGPk/S8D921xq2A/images/compressed/hjiajigjigfjga-IH3_kSpxrl_0_0_inference_gCqnljGB.jpg?Expires=5148873309&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=VIeVAGpLGtoLi1nF4NHws4ATApc1UH7BwtVtbnYhywcuaPDyikKmt52PzuYqxQ5QN3egy4HQ0ZmeEVk350GIby02MuqVY1Ch19umEwQOrNQME463OrxZewQRvz8RS3IeASBo6TehdtecIr8UpTSUK7zaIPCS6fMPd3qZ%2FNT%2FKOe2b0Qz7zEEfkDkDMkdKXtcUBwDm8ECMKhk%2BR0ZIqlAvwd6eYnCFSCofa9GOFtgOqJq9hvKNVF2tKYTGDTDdLlJOAz1iwyox4sKhMyGKSHe%2FRbVmDkQsUlUcHffM5TDQpdbfNnDhzXqDffbEYPGY39bjpvynA0jJRcvGdsMagNsrw%3D%3D",
+            "imageWH":[
+                2000,
+                589
+            ],
+            "coords":{
+                "left_x":5.6,
+                "left_y":7.8,
+                "right_x":5.6,
+                "right_y":11
+            },
+            "products":[
+                {
+                    "x1":160,
+                    "y1":130,
+                    "x2":200,
+                    "y2":200,
+                    "name":"Le chat",
+                    "ean":"00359862",
+                    "brand":"Loreal"
+                },
+                {
+                    "x1":200,
+                    "y1":130,
+                    "x2":235,
+                    "y2":200,
+                    "name":"Ariel",
+                    "ean":"00359862",
+                    "brand":"Loreal"
+                }
+            ]
+        },
+		        {
+            "id":"abcd",
+            "imageurl":"https://storage.googleapis.com/qopiuseu1/LvXdVW/panorama/BuBclLcGPk/S8D921xq2A/images/compressed/hjiajigjigfjga-IH3_kSpxrl_0_0_inference_gCqnljGB.jpg?Expires=5148873309&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=VIeVAGpLGtoLi1nF4NHws4ATApc1UH7BwtVtbnYhywcuaPDyikKmt52PzuYqxQ5QN3egy4HQ0ZmeEVk350GIby02MuqVY1Ch19umEwQOrNQME463OrxZewQRvz8RS3IeASBo6TehdtecIr8UpTSUK7zaIPCS6fMPd3qZ%2FNT%2FKOe2b0Qz7zEEfkDkDMkdKXtcUBwDm8ECMKhk%2BR0ZIqlAvwd6eYnCFSCofa9GOFtgOqJq9hvKNVF2tKYTGDTDdLlJOAz1iwyox4sKhMyGKSHe%2FRbVmDkQsUlUcHffM5TDQpdbfNnDhzXqDffbEYPGY39bjpvynA0jJRcvGdsMagNsrw%3D%3D",
+            "imageWH":[
+                2000,
+                589
+            ],
+            "coords":{
+                "left_x":5.6,
+                "left_y":11,
+                "right_x":7.8,
+                "right_y":11
+            },
+            "products":[
+                {
+                    "x1":160,
+                    "y1":130,
+                    "x2":200,
+                    "y2":200,
+                    "name":"Le chat",
+                    "ean":"00359862",
+                    "brand":"Loreal"
+                },
+                {
+                    "x1":200,
+                    "y1":130,
+                    "x2":235,
+                    "y2":200,
+                    "name":"Ariel",
+                    "ean":"00359862",
+                    "brand":"Loreal"
+                }
+            ]
+        }
+    ]
+
+}
+
